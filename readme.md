@@ -19,7 +19,8 @@ Once you manage to solve one, you will definitely look forward to solve the next
 3. Variables
 4. String Concatenation 
 5. Some methods(length,slice,split,join toUpperCase, toLowerCase )
-6. **Fun**ctions 
+6. Numbers
+7. **Fun**ctions 
 
 Feel free to ask questions.
 
